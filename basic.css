@@ -8,10 +8,13 @@
 html, body {
   background-color: #ffeead;
   margin: 10px;
+  display:flex;
+  justify-content:center;
 }
 
 .container > div:nth-child(1) {
   background-color: #96ceb4;	
+  
 }
 
 .container > div:nth-child(2) {
